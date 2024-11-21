@@ -12,7 +12,7 @@ This repository contains the code for a Django-based API that provides various e
 ### Setup Steps
 1. Clone the repository:
    ```
-   git clone {Repo Link}
+   git clone https://github.com/Satyam2192/Store-Monitoring-Notion.git
    ```
 
 2. Install required dependencies:
